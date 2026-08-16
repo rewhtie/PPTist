@@ -58,7 +58,7 @@ npm run dev
 - 历史记录（撤销、重做）
 - 快捷键
 - 右键菜单
-- 导入：PPTX（综合还原度约80%+）、JSON、特有 pptist 文件
+- 导入：PPTX（综合还原度约85%+）、JSON、特有 pptist 文件
 - 导出：PPTX（综合还原度约95%+）、JSON、图片、PDF（打印）、特有 pptist 文件
 - 模板式AI生成PPT
 ### 幻灯片页面编辑
@@ -247,14 +247,3 @@ npm run dev
 - **免责声明**：作者不保证代码没有 bug，也不对使用后果负责。
 
 > 详细协议内容见官方文档：[AGPL-3.0 协议](https://www.gnu.org/licenses/agpl-3.0.html)
-
-
-# ⭐ Star 趋势
-
-<a href="https://www.star-history.com/?repos=pipipi-pikachu%2FPPTist&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=pipipi-pikachu/PPTist&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=pipipi-pikachu/PPTist&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=pipipi-pikachu/PPTist&type=date&legend=top-left" />
- </picture>
-</a>

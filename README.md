@@ -59,7 +59,7 @@ Browser access: http://127.0.0.1:5173/
 - History (undo, redo)
 - Shortcuts
 - Right-click menu
-- Import: PPTX (overall fidelity ~80%+), JSON, pptist files
+- Import: PPTX (overall fidelity ~85%+), JSON, pptist files
 - Export: PPTX (overall fidelity ~95%+), JSON, images, PDF (print), pptist files
 - Template-based AI PPT generation
 ### Slide Page Editing
@@ -259,14 +259,3 @@ If you wish to use this project for commercial gain, I hope you will respect ope
 - **免责声明**：作者不保证代码没有 bug，也不对使用后果负责。
 
 > 详细协议内容见官方文档：[AGPL-3.0 协议](https://www.gnu.org/licenses/agpl-3.0.html)
-
-
-# ⭐ Star History
-
-<a href="https://www.star-history.com/?repos=pipipi-pikachu%2FPPTist&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=pipipi-pikachu/PPTist&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=pipipi-pikachu/PPTist&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=pipipi-pikachu/PPTist&type=date&legend=top-left" />
- </picture>
-</a>
